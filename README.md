@@ -1,2 +1,1 @@
-# git-story-project
-ISP assignment
+Once upon a time, in a land full of bugs, blablablabla
